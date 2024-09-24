@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi
+Im Bendix.
+IT Security Freshman at Ruhr-Universität Bochum
+currently trying to learn Java 🙃
+
 
 <!--
 **ben19191/ben19191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
